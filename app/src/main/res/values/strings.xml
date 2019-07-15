@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ActivityKotlin</string>
+    <string name="back_previous_activity">Back previous activity</string>
+    <string name="show_next_activity">Show next activity</string>
+</resources>
